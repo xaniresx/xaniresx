@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Serina, a developing software engineer. 
+
+- 🔭 I’m currently working on ...
+  my Associate's Degree in Computer Programming and Development
+  
+- 🌱 I’m currently learning ...
+  C++, Python, Agile, Scrum, Hardware and Software Support, Data Structures and Algorithms
+  
+- 👯 I’m looking to collaborate on ...
+  Learning and experience.
+  
+- 💬 Ask me about ...
+  My experience so far. It's not much but I do enjoy talking about it.
+
+- 😄 Pronouns: she/her/hers
+
 
 <!--
 **xaniresx/xaniresx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
