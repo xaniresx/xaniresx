@@ -1,29 +1,19 @@
-# Hi, I'm Serina 👋
+Hi there 👋 I'm Serina
 
-### Software Engineering Student | People-First Developer
+Operations & Platform Support | AAS in Computer Programming & Development
 
-I'm finishing my AAS in Computer Programming & Development at Wake Tech — building toward a career where technical skill and human instincts work together, not separately.
+I recently earned my Associate's in Computer Programming and Development from Wake Technical Community College. I bring a detail-oriented, user-focused approach shaped by 8+ years of business operations and team leadership experience, currently applying it as an Operations Manager supporting platform infrastructure and intern teams. I'm driven by one question: "How can we make this better?"
 
-I'm passionate about understanding what users truly need and delivering software that exceeds their expectations. That drive didn't start with code — it started with 10+ years of business operations, team leadership, and customer service. I bring all of it to every project I touch.
+🔧 Tech Stack
 
----
+Languages: C++ (Certified), Python (Certified), SQL, Java, JavaScript Tools: Git/GitHub, Postman, Pytest, Curl Methods: Agile/Scrum, Software Quality Assurance (SQA)
 
-### 🔧 Tech Stack
+💡 What Drives Me
 
-**Languages:** C++ (Certified) · Python (Certified) · JavaScript · HTML/CSS  
-**Frameworks & Tools:** Django · Git/GitHub · Postman · Pytest  
-**Currently Building:** A full-stack Django ordering application as Scrum Master & PM for a 7-person team
+I care about understanding what users and teams actually need, and building or supporting systems that deliver on that reliably. My background spans hands-on development, QA, and operations, so I bring both a technical eye and a process-improvement mindset to any team I'm on.
 
----
+👯 Open to Collaborate
 
-### 💡 What I'm Working Toward
+Looking for opportunities in platform operations, technical support, or product-focused development roles where I can combine my operations background with my technical skills.
 
-Roles where I can sit at the intersection of people and product — whether that's project coordination, technical operations, or product-focused development. I pick up new tools fast, I ask good questions, and I don't let things fall through the cracks.
-
----
-
-### 👯 Open to Collaborate
-
-Looking for projects that involve building user-focused solutions, contributing to products that solve real problems, or working alongside people who care about doing things right.
-
-**Pronouns:** she/her/hers
+Pronouns: she/her/hers
